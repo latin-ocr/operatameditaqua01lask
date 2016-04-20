@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operatameditaqua01lask_0595.png"; bbox 0 0 1818 3178; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 393 981 1326 1041">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 393 981 1326 1041">
+     <span class='ocr_line' id='line_1_1' title="bbox 393 981 1326 1041; baseline 0.002 -2"><span class='ocrx_word' id='word_1_1' title='bbox 393 981 1326 1041; x_wconf 74' lang='lat' dir='ltr'>EPISTULA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 525 1158 1173 1206">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 525 1158 1173 1206">
+     <span class='ocr_line' id='line_1_2' title="bbox 525 1158 1173 1206; baseline -0.002 -1"><span class='ocrx_word' id='word_1_2' title='bbox 525 1158 825 1206; x_wconf 89' lang='lat' dir='ltr'><strong>IOANNIS</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 872 1158 899 1205; x_wconf 60' lang='grc' dir='ltr'>ᾗ</span> <span class='ocrx_word' id='word_1_4' title='bbox 948 1158 1173 1205; x_wconf 87' lang='lat' dir='ltr'><strong>LASCO</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 283 1333 1419 1703">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 283 1333 1419 1703">
+     <span class='ocr_line' id='line_1_3' title="bbox 283 1333 1419 1398; baseline 0.002 -18"><span class='ocrx_word' id='word_1_5' title='bbox 283 1339 389 1380; x_wconf 79' lang='lat' dir='ltr'>ante</span> <span class='ocrx_word' id='word_1_6' title='bbox 431 1333 813 1397; x_wconf 80' lang='lat' dir='ltr'>Quinquennium</span> <span class='ocrx_word' id='word_1_7' title='bbox 860 1333 915 1380; x_wconf 82' lang='lat' dir='ltr'>ad</span> <span class='ocrx_word' id='word_1_8' title='bbox 953 1334 1152 1382; x_wconf 80' lang='lat' dir='ltr'>amicum</span> <span class='ocrx_word' id='word_1_9' title='bbox 1189 1335 1419 1398; x_wconf 80' lang='lat' dir='ltr'>quendam</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 381 1441 1323 1505; baseline 0.003 -18"><span class='ocrx_word' id='word_1_10' title='bbox 381 1441 572 1505; x_wconf 74' lang='lat' dir='ltr'>scripta,</span> <span class='ocrx_word' id='word_1_11' title='bbox 623 1441 857 1488; x_wconf 81' lang='lat' dir='ltr'>continens</span> <span class='ocrx_word' id='word_1_12' title='bbox 906 1442 949 1488; x_wconf 84' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_13' title='bbox 1001 1459 1047 1488; x_wconf 77' lang='lat' dir='ltr'>se</span> <span class='ocrx_word' id='word_1_14' title='bbox 1096 1459 1323 1490; x_wconf 80' lang='lat' dir='ltr'>sununam</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 581 1548 1131 1596; baseline 0.004 -2"><span class='ocrx_word' id='word_1_15' title='bbox 581 1548 916 1595; x_wconf 81' lang='lat' dir='ltr'>controversiae</span> <span class='ocrx_word' id='word_1_16' title='bbox 953 1549 1131 1596; x_wconf 79' lang='lat' dir='ltr'>Coenae</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 636 1654 1068 1703; baseline 0.009 -4"><span class='ocrx_word' id='word_1_17' title='bbox 636 1654 822 1701; x_wconf 82' lang='lat' dir='ltr'>Domini</span> <span class='ocrx_word' id='word_1_18' title='bbox 868 1656 1068 1703; x_wconf 79' lang='lat' dir='ltr'>breviter</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 711 1760 999 1824">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 711 1760 999 1824">
+     <span class='ocr_line' id='line_1_7' title="bbox 711 1760 999 1824; baseline 0.007 -18"><span class='ocrx_word' id='word_1_19' title='bbox 711 1760 999 1824; x_wconf 74' lang='lat' dir='ltr'>explicatam.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

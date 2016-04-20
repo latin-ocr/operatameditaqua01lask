@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operatameditaqua01lask_0609.png"; bbox 0 0 1818 3178; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 345 125 1345 197">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 345 125 1345 197">
+     <span class='ocr_line' id='line_1_1' title="bbox 345 125 1345 197; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 345 125 1345 197; x_wconf 79' lang='lat' dir='ltr'><strong>EPITOME</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 208 487 1422 544">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 208 487 1422 544">
+     <span class='ocr_line' id='line_1_2' title="bbox 208 487 1422 544; baseline 0 -3"><span class='ocrx_word' id='word_1_2' title='bbox 208 537 213 541; x_wconf 85' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 256 487 757 544; x_wconf 78' lang='lat' dir='ltr'>DOCTRINAE</span> <span class='ocrx_word' id='word_1_4' title='bbox 814 487 1422 544; x_wconf 74' lang='lat' dir='ltr'>ECCLESIARUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 338 838 1332 898">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 338 838 1332 898">
+     <span class='ocr_line' id='line_1_3' title="bbox 338 838 1332 898; baseline -0.003 -2"><span class='ocrx_word' id='word_1_5' title='bbox 338 843 739 898; x_wconf 67' lang='lat' dir='ltr'>PHRISIAE</span> <span class='ocrx_word' id='word_1_6' title='bbox 791 838 1332 897; x_wconf 80' lang='lat' dir='ltr'><strong>ORIENTALIS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 668 1534 1002 1573">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 668 1534 1002 1573">
+     <span class='ocr_line' id='line_1_4' title="bbox 668 1534 1002 1573; baseline -0.003 -1"><span class='ocrx_word' id='word_1_7' title='bbox 668 1534 1002 1573; x_wconf 74' lang='lat' dir='ltr'><strong>AUTORF.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 477 1721 1198 1790">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 477 1721 1198 1790">
+     <span class='ocr_line' id='line_1_5' title="bbox 477 1721 1198 1790; baseline -0.007 -23"><span class='ocrx_word' id='word_1_8' title='bbox 477 1723 804 1767; x_wconf 86' lang='lat' dir='ltr'><strong>JOANNE</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 854 1723 877 1764; x_wconf 61' lang='lat' dir='ltr'><strong>«a</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 928 1721 1198 1790; x_wconf 78' lang='lat' dir='ltr'>LASCO.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 769 2885 922 2926">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 769 2885 922 2926">
+     <span class='ocr_line' id='line_1_6' title="bbox 769 2885 922 2926; baseline 0.007 -1"><span class='ocrx_word' id='word_1_11' title='bbox 769 2885 922 2926; x_wconf 78' lang='lat'>1544.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
